@@ -2,7 +2,7 @@
 
 use strict;
 use warnings;
-
+main(@ARGV);
 sub main
 {
   my $s= "this is string";

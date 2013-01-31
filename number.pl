@@ -2,7 +2,7 @@
 
 use strict;
 use warnings;
-
+main(@ARGV);
 sub main
 {
   my $integer=23;
@@ -10,7 +10,7 @@ sub main
   my $binary=0b0011;
   my $hex=0xfacd;
   my $octal=0567; 
-  my $exp=12.53e;
+  my $exp=12.53e3;
  }
 
 sub error

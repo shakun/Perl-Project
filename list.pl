@@ -1,8 +1,8 @@
-#!c:/perl/bin
+#!c:\perl\bin
 
 use strict;
 use warnings;
-
+main(@ARGV);
 sub main
 {
   my @array = (1, 2, 3, 4);
