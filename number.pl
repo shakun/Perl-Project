@@ -10,6 +10,7 @@ sub main
   my $binary=0b0011;
   my $hex=0xfacd;
   my $octal=0567; 
+  my $exp=12.53e;
  }
 
 sub error
